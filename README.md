@@ -1,6 +1,5 @@
 # Spring boot - Twilio(messaging)
 
-
 ## Getting Started
 
 Need jdk, spring boot, working machine.
